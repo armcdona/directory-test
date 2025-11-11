@@ -1,16 +1,16 @@
 [
   {
     "last_name": "McDonald",
-    "first_name": "",
-    "email": "",
-    "institution": "",
-    "area": ""
+    "first_name": "Ashley",
+    "email": "armcdona@calpoly.edu",
+    "institution": "Cal Poly SLO",
+    "area": "Computational Chemistry"
   },
   {
     "last_name": "Pearse",
-    "first_name": "",
-    "email": "",
-    "institution": "",
-    "area": ""
+    "first_name": "Erin",
+    "email": "epearse@calpoly.edu",
+    "institution": "Cal Poly SLO",
+    "area": "climate modeling"
   }
 ]
