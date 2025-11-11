@@ -1,0 +1,18 @@
+title: "Research Directory"
+description: "Searchable directory by name, institution, and research area"
+url: "" # set this to your custom domain later if you add a CNAME
+baseurl: "" # leave empty when publishing to <user>.github.io
+
+
+# Use a built‑in theme so you don't have to add layouts
+theme: minima
+
+
+# GitHub Pages supports this plugin out of the box
+plugins:
+- jekyll-seo-tag
+
+
+# Make sure the data folder is processed
+include:
+- _data
